@@ -1,0 +1,22 @@
+
+
+.head-container{
+    background-color: rgb(161, 248, 248);
+    margin-top:3px;
+    margin-left: 400px;
+    margin-right:400px;
+}
+
+.head-container h3{
+    font-size:small;
+    text-align: center;
+    color:goldenrod;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+.head{
+    font-style:initial;
+    font-weight: bold;
+    text-align: center;
+    color:rgb(17, 5, 90);
+}
